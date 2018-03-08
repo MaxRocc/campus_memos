@@ -35,9 +35,4 @@ Dependancy |the fact that a program needs another program (and specific version 
 AVD|Android Virtual Device - a device configuration that is run with the Android emulator|Android|
 widget|a basic and easy to use application made for one or different software platforms|
 whitelist|contrary to a blacklist, a whitelist is a list of authorizations|
-<<<<<<< HEAD
 allow-intent|controls which URLs the app is allowed to ask the system to open. By default, no external URLs are allowed|
-=======
-allow-intent|controls which URLs the app is allowed to ask the system to open.
-By default, no external URLs are allowed
->>>>>>> 3254a7819c961a53a167c891db21129e1871ae45
