@@ -31,6 +31,8 @@ Restful |respecting a set of development standards (e.g. CRUD)|any|any
  Stores, play & itunes |online shops where various software applications can be purchased and downloaded by customers |any|any
  Task runner |a toolkit used for automation of time-consuming and repetitive tasks involved in web development like minification, concatenation, cache busting, unit testing, linting, optimization|any|any
 Dependancy |the fact that a program needs another program (and specific version of this program)|any|any
-
-
-
+AVD|Android Virtual Device - a device configuration that is run with the Android emulator|Android|
+widget|a basic and easy to use application made for one or different software platforms|
+whitelist|contrary to a blacklist, a whitelist is a list of authorizations|
+allow-intent|controls which URLs the app is allowed to ask the system to open.
+By default, no external URLs are allowed

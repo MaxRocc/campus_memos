@@ -1,0 +1,5 @@
+
+SSL : Secure Sockets Layer now prohibited from use by the IETF replaced by Transport Layer Security (TLS)
+IETF : Internet Engeneering Task Force
+ORM : Object-relational mapping
+API : Application programming interface

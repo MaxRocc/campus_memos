@@ -1,0 +1,17 @@
+**Project structure**
+|Folder name|Folder content|
+|--|--|
+|“build”||
+|“config”||
+|“node_modules”||
+|“resources”||
+|"src"||
+|"static"||
+|"www"||
+***
+**Commands**
+|Cmd name|What it does|
+|--|--|
+|npm run dev|launches the script that boots a development server|
+|npm run build|launches the script that generates source files|
+|||
