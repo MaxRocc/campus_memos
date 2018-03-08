@@ -10,6 +10,7 @@
 |cordova run android|complies/creates app|
 ***
 **How is a Cordova project  structured**
+
 | Folder name | Contents |
 |--|--|
 |config.xml|configuration file that controls many aspects of a cordova application's behavior and stores metadata (ie description/author name, etc.)|
