@@ -12,7 +12,7 @@
 |packaging				|a way of organizing classes in larger systems to make them more organized and manageable (cf. package cohesion & package coupling)|
 |import     		    |make classes and/or interfaces available in a different package from the one in which they are defined|
 |build					|convert code into a stand-alone form that can be run on a computer or to the form itself|
-|final		 		    |final class may not be extended by another class|
+|final		 		    |final class may not be extended by another class - used to declare a constant?|
 |extends/parent/child	|allows a class (the child class) to inherit (access and use) the data and methods stored in its parent class|
 |override				|rewriting a method or a variable from a parent class from a child class in order to change its value/action|
 |constructor			|a special method of a class that initializes an object of that type|
