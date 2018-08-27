@@ -1,4 +1,4 @@
-Algorithme et société
+Algorithme et société - Totem Grenoble - 24 janvier 2018
 Patrick Loiseau et Oana Goga
 
 Les algorithmes dans la perception populaire :
@@ -47,11 +47,6 @@ Facebook pixel : like button – collecte des données de façon invisible.
 Facebook a « résolu » la « faille » liée à ce « pixel » - cf. annonce du 22 décembre 2017
 
 Référence à IEEE (Institute of Electrical and Electronics Engineers) Security and Privacy 
-
-
-
-
-
 
 Capitalisant sur leurs recherches, les deux chercheurs se sont demandé :
 
